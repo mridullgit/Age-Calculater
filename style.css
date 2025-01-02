@@ -1,0 +1,33 @@
+.container{
+    background-color: crimson;
+    width: 350px;
+    height: 350px;
+    border: solid black 2px;
+    margin-left: 600px;
+    margin-top: 200px;
+    overflow: hidden;
+    
+}
+.ageInp{
+    margin-top: 50px;
+    margin-left: 70px;
+    background-color: aquamarine;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    place-items: center;
+    display: grid;
+
+}
+.ageOut{
+    margin-top: 50px;
+    margin-left: 70px;
+    background-color: yellowgreen;
+    width: 200px;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 70px;
+    place-items: center;
+    display: grid;
+}
+
